@@ -4,6 +4,11 @@ Body mass index (BMI) is a measure that shows whether people have the right weig
 
 The World Health Organisation (WHO), governments and health workers use it. It is also sometimes called the Quetelet index.
 
+
+
+![bmi_screen](https://github.com/Juihibi/bmi_calculator/assets/142254238/a6e689b7-e34f-4e57-b76f-130fe371f729)
+
+
 ![bmisc1](https://github.com/Juihibi/bmi_calculator/assets/142254238/b578311a-442a-45be-b467-9a48505ad6cc)
 
 
