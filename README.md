@@ -1,19 +1,13 @@
-# bmi_calculator
+BMI CALCULATOR UI + BACKEND
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Body mass index (BMI) is a measure that shows whether people have the right weight for their height.
 
-## Getting Started
+The World Health Organisation (WHO), governments and health workers use it. It is also sometimes called the Quetelet index.
 
-A few resources to get you started if this is your first Flutter project:
+![bmisc1](https://github.com/Juihibi/bmi_calculator/assets/142254238/b578311a-442a-45be-b467-9a48505ad6cc)
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![bmisc](https://github.com/Juihibi/bmi_calculator/assets/142254238/554ab1d1-619c-4b4f-9571-bc6f2c14e6a5)
 
-## Getting Started: FlutLab - Flutter Online IDE
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![bmisc3](https://github.com/Juihibi/bmi_calculator/assets/142254238/da7d3b02-ab16-4de6-b98a-f9ff028543e6)
