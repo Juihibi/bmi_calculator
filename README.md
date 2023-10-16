@@ -6,13 +6,15 @@ The World Health Organisation (WHO), governments and health workers use it. It i
 
 
 
-![bmi_screen](https://github.com/Juihibi/bmi_calculator/assets/142254238/a6e689b7-e34f-4e57-b76f-130fe371f729)
+![bmi_sc0](https://github.com/Juihibi/bmi_calculator/assets/142254238/dd663513-2436-4b65-9230-c74f61f3470a)
 
 
-![bmisc1](https://github.com/Juihibi/bmi_calculator/assets/142254238/b578311a-442a-45be-b467-9a48505ad6cc)
+![bmisc1](https://github.com/Juihibi/bmi_calculator/assets/142254238/2cae28c6-7de5-443f-adb0-1d0843aa0aaf)
 
 
-![bmisc](https://github.com/Juihibi/bmi_calculator/assets/142254238/554ab1d1-619c-4b4f-9571-bc6f2c14e6a5)
+![bmisc2](https://github.com/Juihibi/bmi_calculator/assets/142254238/6984b75b-418b-412a-876e-bcbdf81c5682)
 
 
-![bmisc3](https://github.com/Juihibi/bmi_calculator/assets/142254238/da7d3b02-ab16-4de6-b98a-f9ff028543e6)
+
+![bmisc3](https://github.com/Juihibi/bmi_calculator/assets/142254238/5f5e8d24-0e56-45e0-9e04-9c54a588c87b)
+
